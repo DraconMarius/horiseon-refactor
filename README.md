@@ -11,7 +11,7 @@ This will improve the search engine visibility, and allows for increased foot tr
 - [x] Includes images alt attributes
 - [x] CSS properties are in logical order
 - [x] ~90% likeness compared to original
-- [ ] HTML & CSS Comments
+- [x] HTML & CSS Comments
 - [ ] Supports various screensizes (WIP)
 
 ---
