@@ -5,12 +5,12 @@ This is a code-refactor project on a webpage for Horiseon Inc. I was tasked with
 This will improve the search engine visibility, and allows for increased foot traffic.
 
 ### Goals
-- [*] Title is clear and 'searchable'
-- [*] HTML in logical order
-- [*] Includes Semantic HTML elements 
-- [*] Includes images alt attributes
-- [*] CSS properties are in logical order
-- [*] ~90% likeness compared to original
+- [x] Title is clear and 'searchable'
+- [x] HTML in logical order
+- [x] Includes Semantic HTML elements 
+- [x] Includes images alt attributes
+- [x] CSS properties are in logical order
+- [x] ~90% likeness compared to original
 - [ ] HTML & CSS Comments
 - [ ] Supports various screensizes (WIP)
 
