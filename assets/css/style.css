@@ -19,6 +19,7 @@ p {
 
 .header {
     display:flex;
+    justify-content:space-between;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -45,11 +46,11 @@ p {
 .header nav ul {
     list-style-type: none;
     flex-wrap: wrap;
+    margin-right: auto;
 }
 
 .header nav ul li {
     display: inline-block;
-    margin-left: 25px;
 }
 
 .hero {
