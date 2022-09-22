@@ -1,3 +1,4 @@
+/*universal & element style*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,10 +17,11 @@ a {
 p {
     font-size: 16px;
 }
-
+/*header style*/
 .header {
-    display:flex;
-    justify-content:space-between;
+    display:flex; /*added flex box for dynamic adjustment*/
+    justify-content:space-between; 
+    /*I had to add the above ^ so the spacing for the nav bar would look like original. This took me AGES haha*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -30,7 +32,7 @@ p {
     display: inline-block;
     font-size: 48px;
 }
-
+/*to change the color for Hori"SEO"n*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -52,16 +54,17 @@ p {
 .header nav ul li {
     display: inline-block;
 }
-
+/*Splash Screen style and image*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    /*I left the images in here becuase it will be skipped from screen reader this way?*/
+    background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
 }
-
+/*Manipulating the element's location from CSS using the following class*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,7 +74,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Setting the style for the remainder of the page*/
 .content {
     width: 75%;
     display: inline-block;
