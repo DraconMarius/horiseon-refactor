@@ -22,3 +22,19 @@ To introduce new concepts that I had recently learned, I implemented a `flex box
 ## Media
 ![Horiseon-Flex-Demo.gif](./assets/images/horiseon-flex-demo.gif)
 ![Horiseon-Screenshot](./assets/images/Horiseon.png)
+
+## Technologies Used
+> HTML, CSS, Markdown
+
+## License
+> -NA-
+
+---
+
+## Contact
+Feel free to contact me @ the following:
+[<img src="./assets/images/logo_github_icon_143196.png" alt='github' height='40'>](https://github.com/DraconMarius)  
+
+[<img src="./assets/images/logo_linkedin_icon_143191.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/mari-ma-70771585/)  
+
+[Icon credit @ Anton Kalashnyk](https://icon-icons.com/users/14quJ7FM9cYdQZHidnZoM/icon-sets/)

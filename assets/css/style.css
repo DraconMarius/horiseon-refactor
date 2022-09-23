@@ -194,6 +194,11 @@ p {
     font-size: 36px;
 }
 
+/*
+Removed Extraneous CSS ID as it was not called in html
+and had no affect on the style of the page
+*/
+
 .footer {
     padding: 30px;
     clear: both;
